@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latido eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-eterno/) |
+| **Get License** | [Get a Licensing Quote for Latido eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero tu cuerpo, ven baila pa' mí
+> Esta noche en el club yo te haré sentir
+> Como nadie en la vida, tú eres mi queen
+> Seduciendo en la barra, a mi lado, right here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
