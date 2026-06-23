@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido eterno
+
+This log tracks the cryptographic history and versioning for the song **Latido eterno** (latido-eterno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:41:45.886648 | `v1` | `f8df4b749963bf129ae7b9a3e0238f8a7114d7f5c891caf3d34d95180a170572` | `d5f4572d4d698e6edad707b727265a7a80040d4fe840924cb7b610cd1e7507ff` | `2026-06-23_latido-eterno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
